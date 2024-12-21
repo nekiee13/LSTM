@@ -1,0 +1,3 @@
+first_layer_values = range(180, 325, 72)   # 120 to 265, step of 72
+second_layer_values = [96, 144, 224]                 # [32, 128, 224]     # Second LSTM layer values - 32, 128, 224
+dense_layer_values = [96, 144, 224]                  # [32, 128, 224]      # Dense layer values  - 32, 128, 224 = 16 x TOTAL 162 configurations

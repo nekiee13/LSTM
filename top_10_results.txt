@@ -1,0 +1,10 @@
+Top 1: Trial 551, Value: 0.011066442943123882, Params: {'model_type': 1, 'first_layer': 36, 'second_layer': 144, 'dense_layer': 162, 'lr': 0.0004290546286040296}
+Top 2: Trial 1404, Value: 0.007314231821946983, Params: {'model_type': 1, 'first_layer': 36, 'second_layer': 135, 'dense_layer': 217, 'lr': 0.0003229598826428716}
+Top 3: Trial 409, Value: 0.007283815667503342, Params: {'model_type': 1, 'first_layer': 46, 'second_layer': 134, 'dense_layer': 222, 'lr': 0.0005137249997661942}
+Top 4: Trial 1768, Value: 0.007269536582454931, Params: {'model_type': 1, 'first_layer': 43, 'second_layer': 141, 'dense_layer': 204, 'lr': 0.00021547796362955636}
+Top 5: Trial 683, Value: 0.007167131759011942, Params: {'model_type': 1, 'first_layer': 46, 'second_layer': 125, 'dense_layer': 226, 'lr': 0.00047066994803154536}
+Top 6: Trial 1039, Value: 0.00686662645565531, Params: {'model_type': 1, 'first_layer': 50, 'second_layer': 138, 'dense_layer': 242, 'lr': 0.0003862843371437309}
+Top 7: Trial 1490, Value: 0.006826251873864367, Params: {'model_type': 1, 'first_layer': 39, 'second_layer': 110, 'dense_layer': 196, 'lr': 0.00027872453255686774}
+Top 8: Trial 1752, Value: 0.006692818983131644, Params: {'model_type': 1, 'first_layer': 45, 'second_layer': 135, 'dense_layer': 205, 'lr': 0.00025380977884159145}
+Top 9: Trial 423, Value: 0.0065661132302323255, Params: {'model_type': 1, 'first_layer': 35, 'second_layer': 142, 'dense_layer': 222, 'lr': 0.00041307882921925776}
+Top 10: Trial 1836, Value: 0.00632326308635643, Params: {'model_type': 1, 'first_layer': 40, 'second_layer': 141, 'dense_layer': 212, 'lr': 0.00032953299386305734}

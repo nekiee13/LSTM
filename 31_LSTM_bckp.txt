@@ -1,0 +1,3608 @@
+[
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.989
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.364
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.972
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.583
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.588
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.492
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.475
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.384
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.647
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.522
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.745
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.625
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.827
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.001
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.624
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000815
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.4
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.275
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.229
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.352
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.441
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.316
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.982
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.684
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.166
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.753
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.761
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.136
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.294
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.19
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.448
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.473
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.002
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.55
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.744
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.369
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.244
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.563
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.41
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.418
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.39
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.523
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.306
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.528
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.403
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.278
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.232
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.597
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.48
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.666
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.549
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.985
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.61
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.36
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.465
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.409
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.417
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.631
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.389
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.708
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.193
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.726
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.617
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.339
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.803
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.622
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.497
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.296
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.635
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.51
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.222
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.345
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.531
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.406
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.85
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.858
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.371
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.46
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.468
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.343
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.932
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.751
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.295
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.126
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.509
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.259
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.517
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.82
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.578
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.349
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.438
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.313
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.479
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.354
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.612
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.362
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.326
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.467
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.303
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.75
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.291
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.388
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.715
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.103
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.304
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.651
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.534
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.667
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.853
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.353
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.325
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.458
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.333
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.013
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.154
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.922
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.555
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.491
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.463
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.415
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.29
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.629
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.387
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.395
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.956
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.706
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.714
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000212
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000518
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000543
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000673
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000851
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000853
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00039
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 1.4e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6.9e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000224
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000379
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00071
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000712
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000865
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00089
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000892
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000559
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000418
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000751
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000904
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000122
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000124
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000277
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000302
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000455
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00061
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000763
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000788
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000943
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000196
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8e-06
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000161
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000314
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000494
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000649
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000802
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000804
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000198
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 2e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000225
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.0002
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000661
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000663
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000841
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00051
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000214
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000369
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000702
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000231
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000233
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 7.3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000228
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000536
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000714
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000869
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000408
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.7e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000575
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000753
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000908
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000755
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000279
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000459
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000612
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000767
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000792
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00014
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000318
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000471
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000473
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000651
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000806
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000959
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00032
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 2.4e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000179
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000332
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000512
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000818
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00082
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000328
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 3.8e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6.3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000216
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000371
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000524
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000704
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000857
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000987
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 7.7e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00023
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000538
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000716
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000718
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000693
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000565
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00041
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.9e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.1e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000577
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000912
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000757
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000461
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000922
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000924
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000142
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000167
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000297
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000475
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000628
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00063
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000938
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000963
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000477
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 3e-06
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 2.8e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000514
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000667
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000669
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000195
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000373
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000375
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000861
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 1.3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000151
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000234
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000387
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000542
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000873
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000875
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000722
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000389
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000248
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000401
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000581
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000887
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000914
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000428
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 2.1e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000287
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000593
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000748
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000926
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000465
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.8e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 7.5e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 5.4e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000146
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000479
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000787
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00094
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.1e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 5e-06
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00016
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000185
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000646
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000824
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000826
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000981
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000352
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00053
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000116
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 5.8e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000366
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000569
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000546
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000118
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.5e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.7e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00025
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000275
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000405
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000736
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000891
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000264
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000289
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000597
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000905
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000777
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000622
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000291
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000176
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000148
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000611
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000789
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000942
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000969
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000483
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9e-06
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000187
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000342
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000648
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000803
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000828
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000201
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000356
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000842
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000995
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000997
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000213
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000395
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000548
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000701
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000726
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000856
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000881
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.9e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000252
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000254
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000562
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000587
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000893
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000895
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000271
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000266
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000421
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000599
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000932
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000934
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000779
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000293
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000127
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000152
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00046
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000638
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000946
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000971
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00064
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000652
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000677
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000203
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000205
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000513
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000691
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000846
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000999
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6.4e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000217
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000242
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000858
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000256
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000409
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000589
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000744
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00027
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000295
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000448
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000911
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000154
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000462
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000617
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00077
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000795
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000321
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000476
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000656
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000809
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000962
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000964
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 2.9e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000668
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00067
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000823
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000695
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6.8e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000374
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000554
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000709
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 2.6e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 4.9e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00026
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000413
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000568
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000721
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000746
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000899
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000876
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000415
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000119
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000274
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000605
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000607
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000915
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000582
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000133
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000286
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000621
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000774
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000927
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000954
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6.1e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.8e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000134
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000325
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00048
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000658
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000505
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000184
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000364
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000517
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00085
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00098
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000223
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000378
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000531
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000556
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000686
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000711
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000864
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000403
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.2e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000237
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000723
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000572
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000175
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000131
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000156
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000121
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000276
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000584
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000609
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000762
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000158
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000183
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000135
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00029
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000598
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000623
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000776
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000931
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000956
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000174
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000327
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000329
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00079
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000968
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00097
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000193
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 3.5e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000341
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000521
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000674
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000982
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000984
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000523
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000368
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000245
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000202
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00038
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000382
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000535
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000688
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000843
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000715
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00056
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000251
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 8.6e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000239
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000241
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000549
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000574
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00088
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000882
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000752
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000125
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000278
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000586
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000921
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000255
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000114
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000472
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000625
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00078
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000153
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000331
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000484
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000486
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000639
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000664
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000947
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000974
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000819
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 1.2e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000192
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000345
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.0005
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000831
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000986
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 5.5e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000348
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000204
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000229
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000384
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00069
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000692
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000845
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.001
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000872
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000717
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00035
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6.5e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000396
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000398
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000884
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000102
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000745
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000615
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000143
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000296
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000935
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000937
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000784
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000451
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000488
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000643
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000821
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000976
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00049
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 1.6e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000194
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000502
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00081
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00099
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 5.3e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000386
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000516
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000541
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000847
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000388
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 6e-06
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 9.2e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000553
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000555
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000733
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000888
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000863
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000735
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000106
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000259
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000261
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000414
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000439
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000592
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000594
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000747
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000772
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 4.1e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.00012
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000145
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.0003
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000606
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000608
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000939
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000159
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000337
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000467
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000492
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.0008
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000953
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000647
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 7.6e-05
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000173
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000326
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000351
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000506
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000659
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000684
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000837
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000967
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.000814
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 5.7e-05
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "first_layer": 36,
+        "second_layer": 144,
+        "dense_layer": 162,
+        "learning_rate": 0.0004290546286040296
+    },
+    {
+        "first_layer": 36,
+        "second_layer": 135,
+        "dense_layer": 217,
+        "learning_rate": 0.0003229598826428716
+    },
+    {
+        "first_layer": 46,
+        "second_layer": 134,
+        "dense_layer": 222,
+        "learning_rate": 0.0005137249997661942
+    },
+    {
+        "first_layer": 43,
+        "second_layer": 141,
+        "dense_layer": 204,
+        "learning_rate": 0.00021547796362955636
+    },
+    {
+        "first_layer": 46,
+        "second_layer": 125,
+        "dense_layer": 226,
+        "learning_rate": 0.00047066994803154536
+    },
+    {
+        "first_layer": 50,
+        "second_layer": 138,
+        "dense_layer": 242,
+        "learning_rate": 0.0003862843371437309
+    },
+    {
+        "first_layer": 39,
+        "second_layer": 110,
+        "dense_layer": 196,
+        "learning_rate": 0.00027872453255686774
+    },
+    {
+        "first_layer": 45,
+        "second_layer": 135,
+        "dense_layer": 205,
+        "learning_rate": 0.00025380977884159145
+    },
+    {
+        "first_layer": 35,
+        "second_layer": 142,
+        "dense_layer": 222,
+        "learning_rate": 0.00041307882921925776
+    },        
+    {
+        "first_layer": 40,
+        "second_layer": 141,
+        "dense_layer": 212,
+        "learning_rate": 0.00032953299386305734
+    }
+]
