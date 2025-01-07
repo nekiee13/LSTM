@@ -1,0 +1,62 @@
+[
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.018
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.234
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.204
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.235
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.336
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.208
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.188
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.209
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.27
+    },
+    {
+        "first_layer": 192,
+        "second_layer": 128,
+        "dense_layer": 128,
+        "learning_rate": 0.287
+    }
+]

@@ -1,10 +1,102 @@
-Top 1: Trial 551, Value: 0.011066442943123882, Params: {'model_type': 1, 'first_layer': 36, 'second_layer': 144, 'dense_layer': 162, 'lr': 0.0004290546286040296}
-Top 2: Trial 1404, Value: 0.007314231821946983, Params: {'model_type': 1, 'first_layer': 36, 'second_layer': 135, 'dense_layer': 217, 'lr': 0.0003229598826428716}
-Top 3: Trial 409, Value: 0.007283815667503342, Params: {'model_type': 1, 'first_layer': 46, 'second_layer': 134, 'dense_layer': 222, 'lr': 0.0005137249997661942}
-Top 4: Trial 1768, Value: 0.007269536582454931, Params: {'model_type': 1, 'first_layer': 43, 'second_layer': 141, 'dense_layer': 204, 'lr': 0.00021547796362955636}
-Top 5: Trial 683, Value: 0.007167131759011942, Params: {'model_type': 1, 'first_layer': 46, 'second_layer': 125, 'dense_layer': 226, 'lr': 0.00047066994803154536}
-Top 6: Trial 1039, Value: 0.00686662645565531, Params: {'model_type': 1, 'first_layer': 50, 'second_layer': 138, 'dense_layer': 242, 'lr': 0.0003862843371437309}
-Top 7: Trial 1490, Value: 0.006826251873864367, Params: {'model_type': 1, 'first_layer': 39, 'second_layer': 110, 'dense_layer': 196, 'lr': 0.00027872453255686774}
-Top 8: Trial 1752, Value: 0.006692818983131644, Params: {'model_type': 1, 'first_layer': 45, 'second_layer': 135, 'dense_layer': 205, 'lr': 0.00025380977884159145}
-Top 9: Trial 423, Value: 0.0065661132302323255, Params: {'model_type': 1, 'first_layer': 35, 'second_layer': 142, 'dense_layer': 222, 'lr': 0.00041307882921925776}
-Top 10: Trial 1836, Value: 0.00632326308635643, Params: {'model_type': 1, 'first_layer': 40, 'second_layer': 141, 'dense_layer': 212, 'lr': 0.00032953299386305734}
+[
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 194,
+        "second_layer": 46,
+        "dense_layer": 27,
+        "lr": 0.008576757100388278,
+        "dropout_rate": 0.4854450988383917,
+        "batch_size": 22
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 118,
+        "second_layer": 72,
+        "dense_layer": 73,
+        "lr": 0.009942142745094296,
+        "dropout_rate": 0.4561343138382065,
+        "batch_size": 23
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 247,
+        "second_layer": 81,
+        "dense_layer": 32,
+        "lr": 0.008358422407786975,
+        "dropout_rate": 0.4843378424457723,
+        "batch_size": 16
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 107,
+        "second_layer": 73,
+        "dense_layer": 75,
+        "lr": 0.008300782717718764,
+        "dropout_rate": 0.4486605361544472,
+        "batch_size": 16
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 139,
+        "second_layer": 75,
+        "dense_layer": 79,
+        "lr": 0.00643257497423639,
+        "dropout_rate": 0.4645578587515995,
+        "batch_size": 23
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 195,
+        "second_layer": 58,
+        "dense_layer": 31,
+        "lr": 0.009962330887676105,
+        "dropout_rate": 0.47123832399243964,
+        "batch_size": 23
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 115,
+        "second_layer": 85,
+        "dense_layer": 30,
+        "lr": 0.0075014627740907945,
+        "dropout_rate": 0.46839578193556775,
+        "batch_size": 24
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 242,
+        "second_layer": 94,
+        "dense_layer": 67,
+        "lr": 0.007356710757278133,
+        "dropout_rate": 0.47110399572872935,
+        "batch_size": 26
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 253,
+        "second_layer": 82,
+        "dense_layer": 24,
+        "lr": 0.008346563192210759,
+        "dropout_rate": 0.474965663708008,
+        "batch_size": 16
+    },
+    {
+        "sequence_length": 15,
+        "model_type": 3,
+        "first_layer": 165,
+        "second_layer": 95,
+        "dense_layer": 16,
+        "lr": 0.009946284285657634,
+        "dropout_rate": 0.48797397248934254,
+        "batch_size": 16
+    }
+]

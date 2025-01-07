@@ -1,0 +1,83 @@
+[
+    {
+      "R2_value": 0.760,
+      "model_type": 3,
+      "first_layer": 348,
+      "second_layer": 147,
+      "dense_layer": 107,
+      "lr": 0.009921677142100198,
+      "dropout_rate": 0.14074062574736945,
+      "batch_size": 30
+    },
+    {
+      "R2_value": 0.631,
+      "model_type": 3,
+      "first_layer": 447,
+      "second_layer": 228,
+      "dense_layer": 126,
+      "lr": 8.503954410448834e-05,
+      "dropout_rate": 0.11877356896550435,
+      "batch_size": 18
+    },
+    {
+      "R2_value": 0.597,
+      "model_type": 3,
+      "first_layer": 439,
+      "second_layer": 152,
+      "dense_layer": 102,
+      "lr": 1.014298244128096e-06,
+      "dropout_rate": 0.12220875811663337,
+      "batch_size": 20
+    },
+    {
+      "R2_value": 0.591,
+      "model_type": 3,
+      "first_layer": 376,
+      "second_layer": 166,
+      "dense_layer": 110,
+      "lr": 0.008418031955496933,
+      "dropout_rate": 0.10024514822727328,
+      "batch_size": 19
+    },
+    {
+      "R2_value": 0.588,
+      "model_type": 3,
+      "first_layer": 83,
+      "second_layer": 249,
+      "dense_layer": 117,
+      "lr": 0.003805476161000464,
+      "dropout_rate": 0.11171870375442314,
+      "batch_size": 26
+    },
+    {
+      "R2_value": 0.588,
+      "model_type": 3,
+      "first_layer": 416,
+      "second_layer": 145,
+      "dense_layer": 105,
+      "lr": 0.0002286910691475218,
+      "dropout_rate": 0.12673281532355857,
+      "batch_size": 16
+    },
+    {
+      "R2_value": 0.582,
+      "model_type": 3,
+      "first_layer": 386,
+      "second_layer": 105,
+      "dense_layer": 126,
+      "lr": 0.00029505376915956144,
+      "dropout_rate": 0.11472913771040438,
+      "batch_size": 20
+    },
+    {
+      "R2_value": 0.582,
+      "model_type": 3,
+      "first_layer": 361,
+      "second_layer": 163,
+      "dense_layer": 41,
+      "lr": 0.0060643262928584294,
+      "dropout_rate": 0.14909870585663976,
+      "batch_size": 25
+    }
+  ]
+  

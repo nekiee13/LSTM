@@ -1,62 +1,73 @@
 [
     {
-        "first_layer": 36,
-        "second_layer": 144,
-        "dense_layer": 162,
-        "learning_rate": 0.0004290546286040296
+        "first_layer": 52,
+        "second_layer": 35,
+        "dense_layer": 89,
+        "learning_rate": 0.020599846817398768,
+        "batch_size": 11
+    },
+    {
+        "first_layer": 55,
+        "second_layer": 67,
+        "dense_layer": 223,
+        "learning_rate": 0.015015075417636022,
+        "batch_size": 11
+    },
+    {
+        "first_layer": 57,
+        "second_layer": 54,
+        "dense_layer": 213,
+        "learning_rate": 0.00862040871517777,
+        "batch_size": 9
+    },
+    {
+        "first_layer": 49,
+        "second_layer": 62,
+        "dense_layer": 223,
+        "learning_rate": 0.025973236049446773,
+        "batch_size": 10
     },
     {
         "first_layer": 36,
-        "second_layer": 135,
-        "dense_layer": 217,
-        "learning_rate": 0.0003229598826428716
+        "second_layer": 44,
+        "dense_layer": 45,
+        "learning_rate": 0.05776470674238571,
+        "batch_size": 45
     },
     {
-        "first_layer": 46,
-        "second_layer": 134,
-        "dense_layer": 222,
-        "learning_rate": 0.0005137249997661942
+        "first_layer": 49,
+        "second_layer": 55,
+        "dense_layer": 220,
+        "learning_rate": 0.0587366268640879,
+        "batch_size": 35
     },
     {
-        "first_layer": 43,
-        "second_layer": 141,
-        "dense_layer": 204,
-        "learning_rate": 0.00021547796362955636
+        "first_layer": 52,
+        "second_layer": 48,
+        "dense_layer": 221,
+        "learning_rate": 0.07020266971430436,
+        "batch_size": 45
     },
-    {
-        "first_layer": 46,
-        "second_layer": 125,
-        "dense_layer": 226,
-        "learning_rate": 0.00047066994803154536
-    },
-    {
-        "first_layer": 50,
-        "second_layer": 138,
-        "dense_layer": 242,
-        "learning_rate": 0.0003862843371437309
-    },
-    {
-        "first_layer": 39,
-        "second_layer": 110,
-        "dense_layer": 196,
-        "learning_rate": 0.00027872453255686774
-    },
-    {
-        "first_layer": 45,
-        "second_layer": 135,
-        "dense_layer": 205,
-        "learning_rate": 0.00025380977884159145
-    },
-    {
-        "first_layer": 35,
-        "second_layer": 142,
-        "dense_layer": 222,
-        "learning_rate": 0.00041307882921925776
-    },        
     {
         "first_layer": 40,
-        "second_layer": 141,
-        "dense_layer": 212,
-        "learning_rate": 0.00032953299386305734
+        "second_layer": 46,
+        "dense_layer": 227,
+        "learning_rate": 0.026088689559776265,
+        "batch_size": 34
+    },
+    {
+        "first_layer": 32,
+        "second_layer": 51,
+        "dense_layer": 256,
+        "learning_rate": 0.011374556144248874,
+        "batch_size": 39
+    },
+    {
+        "first_layer": 57,
+        "second_layer": 58,
+        "dense_layer": 227,
+        "learning_rate": 0.034648360954382236,
+        "batch_size": 48
     }
 ]
+

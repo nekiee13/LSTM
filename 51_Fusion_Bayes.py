@@ -36,9 +36,9 @@ from rich.console import Console
 # Load environment variables
 load_dotenv()
 PATIENCE = int(os.getenv("PATIENCE", 25))
-BATCH_SIZE = int(os.getenv("BATCH_SIZE", 48))
 MAX_EPOCHS = int(os.getenv("MAX_EPOCHS", 10000))
 LEARNING_RATE_STEP = float(os.getenv("LEARNING_RATE_STEP", 0.0000001))
+BATCH_SIZE = int(os.getenv("BATCH_SIZE", 32))  # Default value for BATCH_SIZE if not set in .env
 CHART_LIVE = os.getenv("CHART_LIVE", "true").lower() in ("true", "1", "t")
 
 # Logging setup
@@ -112,7 +112,7 @@ def build_model(trial, input_shape):
     first_layer = trial.suggest_int('first_layer', 16, 320)
     second_layer = trial.suggest_int('second_layer', 16, 320)
     dense_layer = trial.suggest_int('dense_layer', 16, 320)
-    lr = trial.suggest_float('lr', 1e-8, 1e-1, log=True)  # Updated
+    lr = trial.suggest_float('lr', 1e-8, 1e-1, log=True)
 
     model = Sequential()
     if model_type == 1:  # Basic
@@ -135,7 +135,7 @@ def build_model(trial, input_shape):
     return model
 
 # Training function
-def train_model(model, train_dataset, val_dataset, validation_data, config, results_path, ax, r2_line, background, fig, min_epochs=800):
+def train_model(model, train_dataset, val_dataset, validation_data, config, results_path, ax, r2_line, background, fig, min_epochs=1000):
     early_stop = tf.keras.callbacks.EarlyStopping(monitor='val_loss', patience=PATIENCE, restore_best_weights=True)
     log_metrics = LogEpochMetrics(validation_data, results_path, ax, r2_line, background, fig, config)
     start_time = time.time()
@@ -152,18 +152,20 @@ def train_model(model, train_dataset, val_dataset, validation_data, config, resu
 
 # Objective function for Optuna
 def objective(trial):
-    # Suggest hyperparameters
     model_type = trial.suggest_int('model_type', 1, 3)
     first_layer = trial.suggest_int('first_layer', 32, 256)
     second_layer = trial.suggest_int('second_layer', 32, 256)
     dense_layer = trial.suggest_int('dense_layer', 32, 256)
-    lr = trial.suggest_float('lr', 1e-5, 1e-2, log=True)  # Updated
+    lr = trial.suggest_float('lr', 1e-7, 1e-1, log=True)
+    batch_size = trial.suggest_int('batch_size', 16, 128)
 
-    config = (model_type, first_layer, second_layer, dense_layer, lr)
+    config = (model_type, first_layer, second_layer, dense_layer, lr, batch_size)
     log.msg("Training Configuration", config=config)
 
+    train_dataset = tf.data.Dataset.from_tensor_slices((X_train, y_train)).shuffle(buffer_size=1024).batch(batch_size).prefetch(buffer_size=tf.data.experimental.AUTOTUNE)
+    val_dataset = tf.data.Dataset.from_tensor_slices((X_val, y_val)).batch(batch_size).prefetch(buffer_size=tf.data.experimental.AUTOTUNE)
+
     if CHART_LIVE:
-        # Clear the existing graph
         ax.cla()
         ax.set_xlabel('Epoch')
         ax.set_ylabel('R2 Score')
@@ -173,7 +175,6 @@ def objective(trial):
         r2_line, = ax.plot([], [], label='R2 Score')
         ax.legend()
 
-        # Capture the background of the figure
         background = fig.canvas.copy_from_bbox(ax.bbox)
 
     model = build_model(trial, X_train.shape[1:])
@@ -184,12 +185,6 @@ def objective(trial):
 
     if final_r2 < 0:
         console.print(f"[red]Early Termination: R2 < 0 for config {config}[/red]")
-    else:
-        if CHART_LIVE:
-            # Save the chart as a PNG file
-            chart_filename = timestamp_filename("r2_chart") + ".png"
-            fig.savefig(chart_filename)
-            console.print(f"[green]Chart saved as {chart_filename}[/green]")
 
     return final_r2
 
@@ -219,7 +214,6 @@ def save_top_n_results(study, n, filepath):
 def main():
     console.print("[bold green]Loading configuration and data...[/bold green]")
 
-    # Load data
     data = pd.read_csv("05_DATA.csv")
     if 'Date' in data.columns:
         data = data.drop(columns=['Date'])
@@ -229,43 +223,40 @@ def main():
     global X_train, X_val, y_train, y_val, train_dataset, val_dataset, results_file, fig, ax
     X_train, X_val, y_train, y_val = train_test_split(cp.asnumpy(X), cp.asnumpy(y), test_size=0.2)
 
-    # Create efficient data pipelines
     train_dataset = tf.data.Dataset.from_tensor_slices((X_train, y_train)).shuffle(buffer_size=1024).batch(BATCH_SIZE).prefetch(buffer_size=tf.data.experimental.AUTOTUNE)
     val_dataset = tf.data.Dataset.from_tensor_slices((X_val, y_val)).batch(BATCH_SIZE).prefetch(buffer_size=tf.data.experimental.AUTOTUNE)
 
     results_file = "xResults.txt"
 
     if CHART_LIVE:
-        # Initialize plot
         plt.ion()
         fig, ax = plt.subplots()
 
-    # Create a study object
     study = optuna.create_study(direction='maximize')
-    study.optimize(objective, n_trials=8000, timeout=54000)
+    study.optimize(objective, n_trials=5000, timeout=18000)
 
     console.print("[bold green]Optimization Completed. Results saved.[/bold green]")
 
-    # Retrieve and print the best trial
     best_trial = study.best_trial
     console.print(f"[bold blue]Best Trial:[/bold blue] Trial {best_trial.number}, Value: {best_trial.value}, Params: {best_trial.params}")
 
-    # Retrieve and print the top 10 trials
     sorted_trials = sorted(study.trials, key=lambda t: t.value, reverse=True)
     top_10_trials = sorted_trials[:10]
     console.print("[bold blue]Top 10 Trials:[/bold blue]")
     for i, trial in enumerate(top_10_trials):
         console.print(f"Top {i+1}: Trial {trial.number}, Value: {trial.value}, Params: {trial.params}")
 
-    # Save top 10 results to a file
     save_top_n_results(study, 10, "top_10_results.txt")
 
-    # Visualize the optimization process
     if CHART_LIVE:
         plot_optimization_history_matplotlib(study)
         plot_param_importances_matplotlib(study)
 
-    # Close plots
+    if CHART_LIVE:
+        chart_filename = timestamp_filename("final_r2_chart") + ".png"
+        #fig.savefig(chart_filename)
+        console.print(f"[green]Final chart saved as {chart_filename}[/green]")
+
     if CHART_LIVE:
         plt.ioff()
         plt.show()

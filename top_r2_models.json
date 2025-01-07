@@ -1,0 +1,102 @@
+[
+    {
+        "sequence_length": 14,
+        "model_type": 3,
+        "first_layer": 384,
+        "second_layer": 247,
+        "dense_layer": 119,
+        "lr": 0.0025283220530680165,
+        "dropout_rate": 0.4216147837619159,
+        "batch_size": 126
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 3,
+        "first_layer": 394,
+        "second_layer": 251,
+        "dense_layer": 123,
+        "lr": 0.0032461351591953863,
+        "dropout_rate": 0.24386766241008784,
+        "batch_size": 128
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 3,
+        "first_layer": 391,
+        "second_layer": 146,
+        "dense_layer": 120,
+        "lr": 0.002146297644366237,
+        "dropout_rate": 0.433111221640133,
+        "batch_size": 126
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 1,
+        "first_layer": 396,
+        "second_layer": 222,
+        "dense_layer": 122,
+        "lr": 0.00380364528484587,
+        "dropout_rate": 0.28622873922079706,
+        "batch_size": 66
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 2,
+        "first_layer": 387,
+        "second_layer": 246,
+        "dense_layer": 107,
+        "lr": 0.004143356773397621,
+        "dropout_rate": 0.40555164775074404,
+        "batch_size": 86
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 1,
+        "first_layer": 402,
+        "second_layer": 253,
+        "dense_layer": 116,
+        "lr": 0.003258428129925165,
+        "dropout_rate": 0.2291434081461418,
+        "batch_size": 118
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 3,
+        "first_layer": 416,
+        "second_layer": 242,
+        "dense_layer": 109,
+        "lr": 0.007769307994664028,
+        "dropout_rate": 0.2610108885242089,
+        "batch_size": 81
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 2,
+        "first_layer": 390,
+        "second_layer": 232,
+        "dense_layer": 119,
+        "lr": 0.0033572877089762367,
+        "dropout_rate": 0.4998537868382529,
+        "batch_size": 83
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 3,
+        "first_layer": 380,
+        "second_layer": 168,
+        "dense_layer": 117,
+        "lr": 0.0036950516078648687,
+        "dropout_rate": 0.41717854686558936,
+        "batch_size": 90
+    },
+    {
+        "sequence_length": 14,
+        "model_type": 3,
+        "first_layer": 222,
+        "second_layer": 235,
+        "dense_layer": 128,
+        "lr": 0.005678094043110114,
+        "dropout_rate": 0.20111330941007538,
+        "batch_size": 118
+    }
+]

@@ -8776,3 +8776,2091 @@ Dense layer: 212
 Learning rate: 3.30e-04
 Training Time: 23.92 seconds
 
+
+# LSTM Input: (132, 53, 162, 8.78e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 4 | 10 | 31 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Down | Up |
+
+First layer: 132
+Second layer: 53
+Dense layer: 162
+Learning rate: 8.78e-03
+Training Time: 77.61 seconds
+
+
+# LSTM Input: (154, 32, 72, 5.26e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 4 | 10 | 32 | 45 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 154
+Second layer: 32
+Dense layer: 72
+Learning rate: 5.26e-03
+Training Time: 56.73 seconds
+
+
+# LSTM Input: (167, 39, 98, 6.08e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 0 | 2 | 10 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 167
+Second layer: 39
+Dense layer: 98
+Learning rate: 6.08e-03
+Training Time: 83.86 seconds
+
+
+# LSTM Input: (120, 67, 87, 3.82e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 4 | 11 | 33 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 120
+Second layer: 67
+Dense layer: 87
+Learning rate: 3.82e-03
+Training Time: 91.12 seconds
+
+
+# LSTM Input: (161, 42, 91, 6.09e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 8 | 15 | 24 | 32 | 41 | 4 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 161
+Second layer: 42
+Dense layer: 91
+Learning rate: 6.09e-03
+Training Time: 21.75 seconds
+
+
+# LSTM Input: (160, 33, 71, 5.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 4 | 10 | 30 | 43 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 160
+Second layer: 33
+Dense layer: 71
+Learning rate: 5.03e-03
+Training Time: 87.51 seconds
+
+
+# LSTM Input: (169, 32, 92, 5.59e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 0 | 2 | 9 | 32 | 46 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Down | Up |
+
+First layer: 169
+Second layer: 32
+Dense layer: 92
+Learning rate: 5.59e-03
+Training Time: 53.39 seconds
+
+
+# LSTM Input: (138, 45, 59, 6.30e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 2 | 8 | 31 | 45 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 138
+Second layer: 45
+Dense layer: 59
+Learning rate: 6.30e-03
+Training Time: 65.61 seconds
+
+
+# LSTM Input: (128, 53, 73, 4.29e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 3 | 9 | 31 | 45 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Down | Up |
+
+First layer: 128
+Second layer: 53
+Dense layer: 73
+Learning rate: 4.29e-03
+Training Time: 94.63 seconds
+
+
+# LSTM Input: (140, 32, 77, 4.70e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 4 | 10 | 33 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Down | Up |
+
+First layer: 140
+Second layer: 32
+Dense layer: 77
+Learning rate: 4.70e-03
+Training Time: 112.75 seconds
+
+
+# LSTM Input: (132, 53, 162, 8.78e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 5 | 12 | 33 | 44 | 1 | 9 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 132
+Second layer: 53
+Dense layer: 162
+Learning rate: 8.78e-03
+Training Time: 75.60 seconds
+
+
+# LSTM Input: (154, 32, 72, 5.26e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 3 | 11 | 35 | 45 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Equal | Up |
+
+First layer: 154
+Second layer: 32
+Dense layer: 72
+Learning rate: 5.26e-03
+Training Time: 99.70 seconds
+
+
+# LSTM Input: (167, 39, 98, 6.08e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 3 | 10 | 31 | 43 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Equal | Up |
+
+First layer: 167
+Second layer: 39
+Dense layer: 98
+Learning rate: 6.08e-03
+Training Time: 106.21 seconds
+
+
+# LSTM Input: (120, 67, 87, 3.82e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 2 | 9 | 33 | 45 | 2 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 120
+Second layer: 67
+Dense layer: 87
+Learning rate: 3.82e-03
+Training Time: 71.71 seconds
+
+
+# LSTM Input: (161, 42, 91, 6.09e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 4 | 10 | 32 | 45 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 161
+Second layer: 42
+Dense layer: 91
+Learning rate: 6.09e-03
+Training Time: 60.31 seconds
+
+
+# LSTM Input: (160, 33, 71, 5.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 3 | 3 | 11 | 32 | 43 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 160
+Second layer: 33
+Dense layer: 71
+Learning rate: 5.03e-03
+Training Time: 59.31 seconds
+
+
+# LSTM Input: (169, 32, 92, 5.59e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 3 | 13 | 31 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Equal | Up |
+
+First layer: 169
+Second layer: 32
+Dense layer: 92
+Learning rate: 5.59e-03
+Training Time: 48.37 seconds
+
+
+# LSTM Input: (132, 53, 162, 8.78e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 2 | 9 | 33 | 47 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Equal | Up |
+
+First layer: 132
+Second layer: 53
+Dense layer: 162
+Learning rate: 8.78e-03
+Training Time: 100.14 seconds
+
+
+# LSTM Input: (154, 32, 72, 5.26e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 3 | 11 | 33 | 48 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Equal | Up |
+
+First layer: 154
+Second layer: 32
+Dense layer: 72
+Learning rate: 5.26e-03
+Training Time: 73.23 seconds
+
+
+# LSTM Input: (167, 39, 98, 6.08e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 2 | 8 | 29 | 44 | 1 | 9 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 167
+Second layer: 39
+Dense layer: 98
+Learning rate: 6.08e-03
+Training Time: 121.04 seconds
+
+
+# LSTM Input: (120, 67, 87, 3.82e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 5 | 10 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 120
+Second layer: 67
+Dense layer: 87
+Learning rate: 3.82e-03
+Training Time: 112.17 seconds
+
+
+# LSTM Input: (161, 42, 91, 6.09e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 161
+Second layer: 42
+Dense layer: 91
+Learning rate: 6.09e-03
+Training Time: 192.44 seconds
+
+
+# LSTM Input: (160, 33, 71, 5.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 3 | 11 | 33 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 160
+Second layer: 33
+Dense layer: 71
+Learning rate: 5.03e-03
+Training Time: 119.04 seconds
+
+
+# LSTM Input: (169, 32, 92, 5.59e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 2 | 10 | 33 | 46 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 169
+Second layer: 32
+Dense layer: 92
+Learning rate: 5.59e-03
+Training Time: 82.65 seconds
+
+
+# LSTM Input: (138, 45, 59, 6.30e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 2 | 4 | 10 | 33 | 45 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 138
+Second layer: 45
+Dense layer: 59
+Learning rate: 6.30e-03
+Training Time: 90.99 seconds
+
+
+# LSTM Input: (128, 53, 73, 4.29e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 2 | 9 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Up | Up |
+
+First layer: 128
+Second layer: 53
+Dense layer: 73
+Learning rate: 4.29e-03
+Training Time: 94.56 seconds
+
+
+# LSTM Input: (140, 32, 77, 4.70e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 20 | 21 | 28 | 32 | 37 | 1 | 5 |
+| Prediction | 1 | 5 | 12 | 33 | 45 | 1 | 9 |
+| Prediction Trend | Down | Down | Down | Up | Up | Up | Up |
+
+First layer: 140
+Second layer: 32
+Dense layer: 77
+Learning rate: 4.70e-03
+Training Time: 86.27 seconds
+
+
+# LSTM Input: (132, 53, 162, 8.78e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 2 | 8 | 30 | 44 | 1 | 8 |
+| Prediction Trend | Equal | Down | Down | Down | Down | Equal | Up |
+
+First layer: 132
+Second layer: 53
+Dense layer: 162
+Learning rate: 8.78e-03
+Training Time: 90.68 seconds
+
+
+# LSTM Input: (154, 32, 72, 5.26e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 10 | 31 | 45 | 1 | 8 |
+| Prediction Trend | Up | Up | Down | Down | Up | Equal | Down |
+
+First layer: 154
+Second layer: 32
+Dense layer: 72
+Learning rate: 5.26e-03
+Training Time: 111.12 seconds
+
+
+# LSTM Input: (167, 39, 98, 6.08e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 11 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Equal | Up | Up | Up | Down | Up | Down |
+
+First layer: 167
+Second layer: 39
+Dense layer: 98
+Learning rate: 6.08e-03
+Training Time: 82.37 seconds
+
+
+# LSTM Input: (120, 67, 87, 3.82e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 10 | 31 | 44 | 1 | 8 |
+| Prediction Trend | Equal | Up | Up | Down | Down | Equal | Down |
+
+First layer: 120
+Second layer: 67
+Dense layer: 87
+Learning rate: 3.82e-03
+Training Time: 118.10 seconds
+
+
+# LSTM Input: (161, 42, 91, 6.09e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 9 | 31 | 44 | 1 | 8 |
+| Prediction Trend | Up | Up | Down | Down | Down | Up | Up |
+
+First layer: 161
+Second layer: 42
+Dense layer: 91
+Learning rate: 6.09e-03
+Training Time: 101.34 seconds
+
+
+# LSTM Input: (160, 33, 71, 5.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 3 | 11 | 33 | 45 | 1 | 8 |
+| Prediction Trend | Equal | Down | Up | Up | Up | Equal | Down |
+
+First layer: 160
+Second layer: 33
+Dense layer: 71
+Learning rate: 5.03e-03
+Training Time: 68.41 seconds
+
+
+# LSTM Input: (169, 32, 92, 5.59e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 3 | 10 | 31 | 44 | 1 | 8 |
+| Prediction Trend | Up | Down | Up | Down | Up | Up | Up |
+
+First layer: 169
+Second layer: 32
+Dense layer: 92
+Learning rate: 5.59e-03
+Training Time: 65.89 seconds
+
+
+# LSTM Input: (138, 45, 59, 6.30e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 2 | 4 | 11 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Up | Up | Up | Down | Up | Equal | Up |
+
+First layer: 138
+Second layer: 45
+Dense layer: 59
+Learning rate: 6.30e-03
+Training Time: 68.61 seconds
+
+
+# LSTM Input: (128, 53, 73, 4.29e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 11 | 33 | 45 | 1 | 7 |
+| Prediction Trend | Up | Up | Up | Up | Up | Up | Down |
+
+First layer: 128
+Second layer: 53
+Dense layer: 73
+Learning rate: 4.29e-03
+Training Time: 87.03 seconds
+
+
+# LSTM Input: (140, 32, 77, 4.70e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 5 | 10 | 33 | 45 | 1 | 8 |
+| Prediction Trend | Up | Up | Down | Up | Up | Up | Up |
+
+First layer: 140
+Second layer: 32
+Dense layer: 77
+Learning rate: 4.70e-03
+Training Time: 94.15 seconds
+
+
+# LSTM Input: (132, 53, 162, 8.78e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 3 | 10 | 32 | 45 | 1 | 7 |
+| Prediction Trend | Equal | Up | Up | Down | Up | Equal | Down |
+
+First layer: 132
+Second layer: 53
+Dense layer: 162
+Learning rate: 8.78e-03
+Training Time: 46.14 seconds
+
+
+# LSTM Input: (154, 32, 72, 5.26e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 5 | 10 | 31 | 44 | 1 | 8 |
+| Prediction Trend | Up | Up | Down | Down | Down | Up | Up |
+
+First layer: 154
+Second layer: 32
+Dense layer: 72
+Learning rate: 5.26e-03
+Training Time: 126.63 seconds
+
+
+# LSTM Input: (167, 39, 98, 6.08e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 2 | 4 | 11 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Up | Up | Up | Down | Up | Equal | Down |
+
+First layer: 167
+Second layer: 39
+Dense layer: 98
+Learning rate: 6.08e-03
+Training Time: 124.81 seconds
+
+
+# LSTM Input: (120, 67, 87, 3.82e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 9 | 32 | 44 | 1 | 8 |
+| Prediction Trend | Up | Up | Down | Up | Up | Up | Down |
+
+First layer: 120
+Second layer: 67
+Dense layer: 87
+Learning rate: 3.82e-03
+Training Time: 98.98 seconds
+
+
+# LSTM Input: (161, 42, 91, 6.09e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 2 | 9 | 33 | 45 | 1 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Up | Equal | Down |
+
+First layer: 161
+Second layer: 42
+Dense layer: 91
+Learning rate: 6.09e-03
+Training Time: 102.56 seconds
+
+
+# LSTM Input: (160, 33, 71, 5.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 9 | 31 | 43 | 1 | 8 |
+| Prediction Trend | Up | Up | Down | Down | Down | Up | Down |
+
+First layer: 160
+Second layer: 33
+Dense layer: 71
+Learning rate: 5.03e-03
+Training Time: 107.18 seconds
+
+
+# LSTM Input: (169, 32, 92, 5.59e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 2 | 9 | 35 | 45 | 1 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Up | Up | Up |
+
+First layer: 169
+Second layer: 32
+Dense layer: 92
+Learning rate: 5.59e-03
+Training Time: 108.26 seconds
+
+
+# LSTM Input: (138, 45, 59, 6.30e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 3 | 10 | 32 | 45 | 1 | 8 |
+| Prediction Trend | Equal | Up | Down | Up | Up | Up | Down |
+
+First layer: 138
+Second layer: 45
+Dense layer: 59
+Learning rate: 6.30e-03
+Training Time: 45.53 seconds
+
+
+# LSTM Input: (128, 53, 73, 4.29e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 2 | 9 | 32 | 43 | 1 | 8 |
+| Prediction Trend | Equal | Down | Down | Down | Down | Equal | Up |
+
+First layer: 128
+Second layer: 53
+Dense layer: 73
+Learning rate: 4.29e-03
+Training Time: 129.00 seconds
+
+
+# LSTM Input: (140, 32, 77, 4.70e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 3 | 10 | 32 | 44 | 1 | 8 |
+| Prediction | 1 | 4 | 10 | 32 | 45 | 1 | 7 |
+| Prediction Trend | Up | Up | Up | Up | Up | Equal | Down |
+
+First layer: 140
+Second layer: 32
+Dense layer: 77
+Learning rate: 4.70e-03
+Training Time: 70.83 seconds
+
+
+# LSTM Input: (132, 53, 162, 8.78e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 8 | 14 | 29 | 36 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 132
+Second layer: 53
+Dense layer: 162
+Learning rate: 8.78e-03
+Training Time: 74.92 seconds
+
+
+# LSTM Input: (154, 32, 72, 5.26e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 15 | 29 | 36 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 154
+Second layer: 32
+Dense layer: 72
+Learning rate: 5.26e-03
+Training Time: 95.78 seconds
+
+
+# LSTM Input: (167, 39, 98, 6.08e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 16 | 27 | 35 | 38 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 167
+Second layer: 39
+Dense layer: 98
+Learning rate: 6.08e-03
+Training Time: 43.35 seconds
+
+
+# LSTM Input: (120, 67, 87, 3.82e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 120
+Second layer: 67
+Dense layer: 87
+Learning rate: 3.82e-03
+Training Time: 53.90 seconds
+
+
+# LSTM Input: (161, 42, 91, 6.09e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 14 | 28 | 36 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 161
+Second layer: 42
+Dense layer: 91
+Learning rate: 6.09e-03
+Training Time: 73.42 seconds
+
+
+# LSTM Input: (160, 33, 71, 5.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 16 | 28 | 36 | 39 | 6 | 8 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 160
+Second layer: 33
+Dense layer: 71
+Learning rate: 5.03e-03
+Training Time: 58.42 seconds
+
+
+# LSTM Input: (169, 32, 92, 5.59e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 169
+Second layer: 32
+Dense layer: 92
+Learning rate: 5.59e-03
+Training Time: 49.90 seconds
+
+
+# LSTM Input: (138, 45, 59, 6.30e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 15 | 28 | 35 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 138
+Second layer: 45
+Dense layer: 59
+Learning rate: 6.30e-03
+Training Time: 50.70 seconds
+
+
+# LSTM Input: (128, 53, 73, 4.29e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 8 | 15 | 27 | 35 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 128
+Second layer: 53
+Dense layer: 73
+Learning rate: 4.29e-03
+Training Time: 73.69 seconds
+
+
+# LSTM Input: (140, 32, 77, 4.70e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 10 | 19 | 24 | 25 | 40 | 5 | 9 |
+| Prediction | 9 | 14 | 27 | 36 | 39 | 6 | 7 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Down |
+
+First layer: 140
+Second layer: 32
+Dense layer: 77
+Learning rate: 4.70e-03
+Training Time: 62.55 seconds
+
+
+# LSTM Input: (185, 62, 69, 3.29e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 15 | 24 | 35 | 43 | 3 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 185
+Second layer: 62
+Dense layer: 69
+Learning rate: 3.29e-02
+Training Time: 1.58 seconds
+R² Score: 0.9613
+Total Script Duration: 0h 0m 6s
+
+
+# LSTM Input: (35, 88, 123, 4.94e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 14 | 26 | 37 | 45 | 3 | 9 |
+| Prediction Trend | Down | Down | Down | Up | Up | Down | Up |
+
+First layer: 35
+Second layer: 88
+Dense layer: 123
+Learning rate: 4.94e-02
+Training Time: 1.64 seconds
+R² Score: 0.9520
+Total Script Duration: 0h 0m 8s
+
+
+# LSTM Input: (34, 51, 123, 4.49e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 51
+Dense layer: 123
+Learning rate: 4.49e-02
+Training Time: 1.61 seconds
+R² Score: 0.9660
+Total Script Duration: 0h 0m 11s
+
+
+# LSTM Input: (32, 49, 124, 6.28e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 16 | 26 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 32
+Second layer: 49
+Dense layer: 124
+Learning rate: 6.28e-02
+Training Time: 1.69 seconds
+R² Score: 0.9742
+Total Script Duration: 0h 0m 13s
+
+
+# LSTM Input: (37, 84, 101, 3.76e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 6 | 13 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Down | Up |
+
+First layer: 37
+Second layer: 84
+Dense layer: 101
+Learning rate: 3.76e-02
+Training Time: 1.57 seconds
+R² Score: 0.9630
+Total Script Duration: 0h 0m 15s
+
+
+# LSTM Input: (34, 47, 123, 4.93e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 17 | 26 | 33 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 47
+Dense layer: 123
+Learning rate: 4.93e-02
+Training Time: 1.70 seconds
+R² Score: 0.9666
+Total Script Duration: 0h 0m 17s
+
+
+# LSTM Input: (56, 52, 104, 2.79e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 56
+Second layer: 52
+Dense layer: 104
+Learning rate: 2.79e-02
+Training Time: 1.59 seconds
+R² Score: 0.9695
+Total Script Duration: 0h 0m 20s
+
+
+# LSTM Input: (49, 47, 118, 2.48e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 17 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 49
+Second layer: 47
+Dense layer: 118
+Learning rate: 2.48e-02
+Training Time: 1.54 seconds
+R² Score: 0.9743
+Total Script Duration: 0h 0m 22s
+
+
+# LSTM Input: (43, 77, 79, 7.61e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 6 | 17 | 28 | 35 | 44 | 5 | 9 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 43
+Second layer: 77
+Dense layer: 79
+Learning rate: 7.61e-02
+Training Time: 1.63 seconds
+R² Score: 0.9671
+Total Script Duration: 0h 0m 24s
+
+
+# LSTM Input: (36, 51, 60, 3.06e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 17 | 25 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 36
+Second layer: 51
+Dense layer: 60
+Learning rate: 3.06e-02
+Training Time: 1.52 seconds
+R² Score: 0.9708
+Total Script Duration: 0h 0m 26s
+
+
+# LSTM Input: (185, 62, 69, 3.29e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 185
+Second layer: 62
+Dense layer: 69
+Learning rate: 3.29e-02
+Training Time: 2.22 seconds
+R² Score: 0.9671
+Total Script Duration: 0h 0m 27s
+
+
+# LSTM Input: (35, 88, 123, 4.94e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 35
+Second layer: 88
+Dense layer: 123
+Learning rate: 4.94e-02
+Training Time: 2.17 seconds
+R² Score: 0.9698
+Total Script Duration: 0h 0m 30s
+
+
+# LSTM Input: (34, 51, 123, 4.49e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 51
+Dense layer: 123
+Learning rate: 4.49e-02
+Training Time: 2.08 seconds
+R² Score: 0.9686
+Total Script Duration: 0h 0m 33s
+
+
+# LSTM Input: (32, 49, 124, 6.28e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 15 | 25 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 32
+Second layer: 49
+Dense layer: 124
+Learning rate: 6.28e-02
+Training Time: 2.30 seconds
+R² Score: 0.9648
+Total Script Duration: 0h 0m 36s
+
+
+# LSTM Input: (37, 84, 101, 3.76e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 37
+Second layer: 84
+Dense layer: 101
+Learning rate: 3.76e-02
+Training Time: 2.15 seconds
+R² Score: 0.9696
+Total Script Duration: 0h 0m 39s
+
+
+# LSTM Input: (34, 47, 123, 4.93e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 15 | 25 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 47
+Dense layer: 123
+Learning rate: 4.93e-02
+Training Time: 2.24 seconds
+R² Score: 0.9652
+Total Script Duration: 0h 0m 41s
+
+
+# LSTM Input: (56, 52, 104, 2.79e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 34 | 43 | 4 | 9 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 56
+Second layer: 52
+Dense layer: 104
+Learning rate: 2.79e-02
+Training Time: 2.35 seconds
+R² Score: 0.9671
+Total Script Duration: 0h 0m 44s
+
+
+# LSTM Input: (49, 47, 118, 2.48e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 49
+Second layer: 47
+Dense layer: 118
+Learning rate: 2.48e-02
+Training Time: 2.18 seconds
+R² Score: 0.9700
+Total Script Duration: 0h 0m 47s
+
+
+# LSTM Input: (43, 77, 79, 7.61e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 43
+Second layer: 77
+Dense layer: 79
+Learning rate: 7.61e-02
+Training Time: 2.24 seconds
+R² Score: 0.9621
+Total Script Duration: 0h 0m 50s
+
+
+# LSTM Input: (36, 51, 60, 3.06e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 36
+Second layer: 51
+Dense layer: 60
+Learning rate: 3.06e-02
+Training Time: 2.29 seconds
+R² Score: 0.9685
+Total Script Duration: 0h 0m 53s
+
+
+# LSTM Input: (185, 62, 69, 3.29e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 185
+Second layer: 62
+Dense layer: 69
+Learning rate: 3.29e-02
+Training Time: 3.77 seconds
+R² Score: 0.9676
+Total Script Duration: 0h 5m 40s
+
+
+# LSTM Input: (35, 88, 123, 4.94e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 35
+Second layer: 88
+Dense layer: 123
+Learning rate: 4.94e-02
+Training Time: 3.46 seconds
+R² Score: 0.9699
+Total Script Duration: 0h 5m 44s
+
+
+# LSTM Input: (34, 51, 123, 4.49e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 34 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 51
+Dense layer: 123
+Learning rate: 4.49e-02
+Training Time: 3.67 seconds
+R² Score: 0.9627
+Total Script Duration: 0h 5m 48s
+
+
+# LSTM Input: (32, 49, 124, 6.28e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 34 | 44 | 4 | 9 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 32
+Second layer: 49
+Dense layer: 124
+Learning rate: 6.28e-02
+Training Time: 3.36 seconds
+R² Score: 0.9666
+Total Script Duration: 0h 5m 52s
+
+
+# LSTM Input: (37, 84, 101, 3.76e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 35 | 44 | 4 | 9 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 37
+Second layer: 84
+Dense layer: 101
+Learning rate: 3.76e-02
+Training Time: 3.41 seconds
+R² Score: 0.9650
+Total Script Duration: 0h 5m 56s
+
+
+# LSTM Input: (34, 47, 123, 4.93e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 9 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 47
+Dense layer: 123
+Learning rate: 4.93e-02
+Training Time: 3.67 seconds
+R² Score: 0.9703
+Total Script Duration: 0h 6m 0s
+
+
+# LSTM Input: (56, 52, 104, 2.79e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 56
+Second layer: 52
+Dense layer: 104
+Learning rate: 2.79e-02
+Training Time: 3.34 seconds
+R² Score: 0.9711
+Total Script Duration: 0h 6m 4s
+
+
+# LSTM Input: (49, 47, 118, 2.48e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 49
+Second layer: 47
+Dense layer: 118
+Learning rate: 2.48e-02
+Training Time: 3.99 seconds
+R² Score: 0.9682
+Total Script Duration: 0h 6m 9s
+
+
+# LSTM Input: (43, 77, 79, 7.61e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 17 | 26 | 36 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 43
+Second layer: 77
+Dense layer: 79
+Learning rate: 7.61e-02
+Training Time: 3.72 seconds
+R² Score: 0.9719
+Total Script Duration: 0h 6m 14s
+
+
+# LSTM Input: (36, 51, 60, 3.06e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 36
+Second layer: 51
+Dense layer: 60
+Learning rate: 3.06e-02
+Training Time: 3.77 seconds
+R² Score: 0.9702
+Total Script Duration: 0h 6m 18s
+
+
+# LSTM Input: (185, 62, 69, 3.29e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 9 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 185
+Second layer: 62
+Dense layer: 69
+Learning rate: 3.29e-02
+Training Time: 15.99 seconds
+R² Score: 0.9685
+Total Script Duration: 0h 2m 26s
+
+
+# LSTM Input: (35, 88, 123, 4.94e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 35
+Second layer: 88
+Dense layer: 123
+Learning rate: 4.94e-02
+Training Time: 12.46 seconds
+R² Score: 0.9698
+Total Script Duration: 0h 2m 39s
+
+
+# LSTM Input: (34, 51, 123, 4.49e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 25 | 33 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 51
+Dense layer: 123
+Learning rate: 4.49e-02
+Training Time: 21.51 seconds
+R² Score: 0.9655
+Total Script Duration: 0h 3m 1s
+
+
+# LSTM Input: (32, 49, 124, 6.28e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 14 | 23 | 32 | 42 | 4 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Up | Down | Up |
+
+First layer: 32
+Second layer: 49
+Dense layer: 124
+Learning rate: 6.28e-02
+Training Time: 10.70 seconds
+R² Score: 0.9523
+Total Script Duration: 0h 3m 13s
+
+
+# LSTM Input: (37, 84, 101, 3.76e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 37
+Second layer: 84
+Dense layer: 101
+Learning rate: 3.76e-02
+Training Time: 19.13 seconds
+R² Score: 0.9711
+Total Script Duration: 0h 3m 32s
+
+
+# LSTM Input: (34, 47, 123, 4.93e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 34
+Second layer: 47
+Dense layer: 123
+Learning rate: 4.93e-02
+Training Time: 11.77 seconds
+R² Score: 0.9658
+Total Script Duration: 0h 3m 45s
+
+
+# LSTM Input: (56, 52, 104, 2.79e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 8 | 16 | 25 | 35 | 42 | 5 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 56
+Second layer: 52
+Dense layer: 104
+Learning rate: 2.79e-02
+Training Time: 20.59 seconds
+R² Score: 0.9769
+Total Script Duration: 0h 4m 6s
+
+
+# LSTM Input: (49, 47, 118, 2.48e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 9 | 22 | 31 | 37 | 43 | 6 | 9 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 49
+Second layer: 47
+Dense layer: 118
+Learning rate: 2.48e-02
+Training Time: 21.45 seconds
+R² Score: 0.9406
+Total Script Duration: 0h 4m 28s
+
+
+# LSTM Input: (43, 77, 79, 7.61e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 6 | 17 | 27 | 36 | 44 | 4 | 8 |
+| Prediction Trend | Down | Up | Down | Down | Up | Down | Up |
+
+First layer: 43
+Second layer: 77
+Dense layer: 79
+Learning rate: 7.61e-02
+Training Time: 7.39 seconds
+R² Score: 0.9661
+Total Script Duration: 0h 4m 36s
+
+
+# LSTM Input: (36, 51, 60, 3.06e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 9 | 15 | 28 | 36 | 39 | 6 | 7 |
+| Prediction | 10 | 19 | 27 | 36 | 43 | 5 | 8 |
+| Prediction Trend | Up | Up | Down | Down | Up | Down | Up |
+
+First layer: 36
+Second layer: 51
+Dense layer: 60
+Learning rate: 3.06e-02
+Training Time: 21.42 seconds
+R² Score: 0.9715
+Total Script Duration: 0h 4m 58s
+
+
+# LSTM Input: (66, 51, 196, 5.99e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 0 | 8 | 23 | 27 | 36 | 6 | 8 |
+| Prediction Trend | Down | Down | Down | Down | Down | Up | Down |
+
+First layer: 66
+Second layer: 51
+Dense layer: 196
+Learning rate: 5.99e-03
+Training Time: 41.37 seconds
+R² Score: 0.9950
+Total Script Duration: 0h 3m 41s
+
+
+# LSTM Input: (61, 53, 193, 8.61e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 2 | 9 | 25 | 28 | 36 | 7 | 8 |
+| Prediction Trend | Up | Up | Down | Up | Down | Up | Up |
+
+First layer: 61
+Second layer: 53
+Dense layer: 193
+Learning rate: 8.61e-03
+Training Time: 36.79 seconds
+R² Score: 0.9961
+Total Script Duration: 0h 4m 18s
+
+
+# LSTM Input: (76, 36, 67, 1.18e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 2 | 8 | 23 | 26 | 36 | 6 | 8 |
+| Prediction Trend | Up | Down | Down | Down | Down | Up | Up |
+
+First layer: 76
+Second layer: 36
+Dense layer: 67
+Learning rate: 1.18e-02
+Training Time: 36.88 seconds
+R² Score: 0.9937
+Total Script Duration: 0h 4m 56s
+
+
+# LSTM Input: (128, 32, 44, 5.52e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 2 | 8 | 24 | 27 | 36 | 6 | 8 |
+| Prediction Trend | Up | Down | Down | Down | Down | Down | Down |
+
+First layer: 128
+Second layer: 32
+Dense layer: 44
+Learning rate: 5.52e-03
+Training Time: 35.51 seconds
+R² Score: 0.9983
+Total Script Duration: 0h 5m 32s
+
+
+# LSTM Input: (101, 46, 46, 1.03e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 1 | 6 | 25 | 26 | 37 | 6 | 8 |
+| Prediction Trend | Up | Down | Up | Down | Down | Up | Down |
+
+First layer: 101
+Second layer: 46
+Dense layer: 46
+Learning rate: 1.03e-02
+Training Time: 36.41 seconds
+R² Score: 0.9929
+Total Script Duration: 0h 6m 9s
+
+
+# LSTM Input: (94, 48, 63, 4.32e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 2 | 9 | 25 | 27 | 36 | 6 | 8 |
+| Prediction Trend | Up | Up | Up | Down | Down | Down | Up |
+
+First layer: 94
+Second layer: 48
+Dense layer: 63
+Learning rate: 4.32e-03
+Training Time: 37.39 seconds
+R² Score: 0.9970
+Total Script Duration: 0h 6m 47s
+
+
+# LSTM Input: (125, 32, 61, 6.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 3 | 11 | 26 | 29 | 37 | 7 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Up | Down |
+
+First layer: 125
+Second layer: 32
+Dense layer: 61
+Learning rate: 6.03e-03
+Training Time: 39.61 seconds
+R² Score: 0.9880
+Total Script Duration: 0h 7m 27s
+
+
+# LSTM Input: (107, 50, 122, 9.64e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 2 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction Trend | Up | Down | Up | Up | Down | Up | Up |
+
+First layer: 107
+Second layer: 50
+Dense layer: 122
+Learning rate: 9.64e-03
+Training Time: 38.02 seconds
+R² Score: 0.9983
+Total Script Duration: 0h 8m 6s
+
+
+# LSTM Input: (112, 36, 42, 9.89e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 1 | 11 | 23 | 27 | 38 | 5 | 8 |
+| Prediction Trend | Up | Up | Down | Down | Up | Down | Down |
+
+First layer: 112
+Second layer: 36
+Dense layer: 42
+Learning rate: 9.89e-03
+Training Time: 38.14 seconds
+R² Score: 0.9927
+Total Script Duration: 0h 8m 45s
+
+
+# LSTM Input: (68, 36, 57, 2.61e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 1 | 8 | 27 | 27 | 36 | 7 | 9 |
+| Prediction Trend | Down | Down | Up | Up | Down | Up | Up |
+
+First layer: 68
+Second layer: 36
+Dense layer: 57
+Learning rate: 2.61e-03
+Training Time: 35.22 seconds
+R² Score: 0.9941
+Total Script Duration: 0h 9m 21s
+
+
+# LSTM Input: (66, 51, 196, 5.99e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 8 | 17 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 66
+Second layer: 51
+Dense layer: 196
+Learning rate: 5.99e-03
+Training Time: 7.46 seconds
+R² Score: -0.0264
+Total Script Duration: 0h 1m 32s
+
+
+# LSTM Input: (61, 53, 193, 8.61e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 7 | 17 | 27 | 34 | 44 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 61
+Second layer: 53
+Dense layer: 193
+Learning rate: 8.61e-03
+Training Time: 7.58 seconds
+R² Score: -0.0262
+Total Script Duration: 0h 1m 40s
+
+
+# LSTM Input: (76, 36, 67, 1.18e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 8 | 17 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 76
+Second layer: 36
+Dense layer: 67
+Learning rate: 1.18e-02
+Training Time: 7.20 seconds
+R² Score: -0.0208
+Total Script Duration: 0h 1m 48s
+
+
+# LSTM Input: (128, 32, 44, 5.52e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 7 | 16 | 26 | 34 | 44 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 128
+Second layer: 32
+Dense layer: 44
+Learning rate: 5.52e-03
+Training Time: 7.25 seconds
+R² Score: -0.0294
+Total Script Duration: 0h 1m 56s
+
+
+# LSTM Input: (101, 46, 46, 1.03e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 8 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 101
+Second layer: 46
+Dense layer: 46
+Learning rate: 1.03e-02
+Training Time: 7.37 seconds
+R² Score: -0.0152
+Total Script Duration: 0h 2m 4s
+
+
+# LSTM Input: (94, 48, 63, 4.32e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 7 | 16 | 25 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Up | Up | Down | Up | Up | Down | Up |
+
+First layer: 94
+Second layer: 48
+Dense layer: 63
+Learning rate: 4.32e-03
+Training Time: 7.69 seconds
+R² Score: -0.0282
+Total Script Duration: 0h 2m 13s
+
+
+# LSTM Input: (125, 32, 61, 6.03e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 7 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Up | Down | Up | Up | Down | Up |
+
+First layer: 125
+Second layer: 32
+Dense layer: 61
+Learning rate: 6.03e-03
+Training Time: 7.41 seconds
+R² Score: -0.0350
+Total Script Duration: 0h 2m 21s
+
+
+# LSTM Input: (107, 50, 122, 9.64e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 8 | 16 | 25 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 107
+Second layer: 50
+Dense layer: 122
+Learning rate: 9.64e-03
+Training Time: 7.88 seconds
+R² Score: -0.0154
+Total Script Duration: 0h 2m 29s
+
+
+# LSTM Input: (112, 36, 42, 9.89e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 8 | 17 | 26 | 35 | 44 | 4 | 9 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 112
+Second layer: 36
+Dense layer: 42
+Learning rate: 9.89e-03
+Training Time: 7.56 seconds
+R² Score: -0.0213
+Total Script Duration: 0h 2m 37s
+
+
+# LSTM Input: (68, 36, 57, 2.61e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 1 | 9 | 25 | 27 | 37 | 6 | 8 |
+| Prediction | 8 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Up | Up | Up | Up | Down | Up |
+
+First layer: 68
+Second layer: 36
+Dense layer: 57
+Learning rate: 2.61e-03
+Training Time: 7.36 seconds
+R² Score: -0.0262
+Total Script Duration: 0h 2m 45s
+
+
+# LSTM Input: (52, 35, 89, 2.06e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Up | Up | Down | Down | Down |
+
+First layer: 52
+Second layer: 35
+Dense layer: 89
+Learning rate: 2.06e-02
+Training Time: 7.29 seconds
+R² Score: -0.0179
+Total Script Duration: 0h 1m 40s
+
+
+# LSTM Input: (55, 67, 223, 1.50e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 8 | 17 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 55
+Second layer: 67
+Dense layer: 223
+Learning rate: 1.50e-02
+Training Time: 8.46 seconds
+R² Score: -0.0201
+Total Script Duration: 0h 1m 49s
+
+
+# LSTM Input: (57, 54, 213, 8.62e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 17 | 27 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Up | Up | Down | Down | Down |
+
+First layer: 57
+Second layer: 54
+Dense layer: 213
+Learning rate: 8.62e-03
+Training Time: 7.32 seconds
+R² Score: -0.0146
+Total Script Duration: 0h 1m 57s
+
+
+# LSTM Input: (49, 62, 223, 2.60e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 8 | 16 | 25 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 49
+Second layer: 62
+Dense layer: 223
+Learning rate: 2.60e-02
+Training Time: 8.64 seconds
+R² Score: -0.0171
+Total Script Duration: 0h 2m 7s
+
+
+# LSTM Input: (36, 44, 45, 5.78e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 36
+Second layer: 44
+Dense layer: 45
+Learning rate: 5.78e-02
+Training Time: 8.32 seconds
+R² Score: -0.0200
+Total Script Duration: 0h 2m 16s
+
+
+# LSTM Input: (49, 55, 220, 5.87e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 25 | 34 | 43 | 4 | 9 |
+| Prediction Trend | Up | Down | Down | Down | Down | Down | Down |
+
+First layer: 49
+Second layer: 55
+Dense layer: 220
+Learning rate: 5.87e-02
+Training Time: 10.29 seconds
+R² Score: -0.0166
+Total Script Duration: 0h 2m 26s
+
+
+# LSTM Input: (52, 48, 221, 7.02e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 25 | 34 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 52
+Second layer: 48
+Dense layer: 221
+Learning rate: 7.02e-02
+Training Time: 7.46 seconds
+R² Score: -0.0132
+Total Script Duration: 0h 2m 35s
+
+
+# LSTM Input: (40, 46, 227, 2.61e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 40
+Second layer: 46
+Dense layer: 227
+Learning rate: 2.61e-02
+Training Time: 8.10 seconds
+R² Score: -0.0174
+Total Script Duration: 0h 2m 43s
+
+
+# LSTM Input: (32, 51, 256, 1.14e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Up | Up | Down | Down | Down |
+
+First layer: 32
+Second layer: 51
+Dense layer: 256
+Learning rate: 1.14e-02
+Training Time: 7.68 seconds
+R² Score: -0.0195
+Total Script Duration: 0h 2m 52s
+
+
+# LSTM Input: (57, 58, 227, 3.46e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 8 | 16 | 25 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 57
+Second layer: 58
+Dense layer: 227
+Learning rate: 3.46e-02
+Training Time: 7.89 seconds
+R² Score: -0.0201
+Total Script Duration: 0h 3m 0s
+
+
+# LSTM Input: (52, 35, 89, 2.06e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 18 | 26 | 35 | 45 | 4 | 9 |
+| Prediction Trend | Up | Down | Up | Up | Down | Down | Down |
+
+First layer: 52
+Second layer: 35
+Third layer: 48
+Dense layer: 89
+Learning rate: 2.06e-02
+Training Time: 5.80 seconds
+R² Score: -0.0093
+Total Script Duration: 0h 4m 31s
+
+
+# LSTM Input: (55, 67, 223, 1.50e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 25 | 34 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Down | Down | Down | Down |
+
+First layer: 55
+Second layer: 67
+Third layer: 48
+Dense layer: 223
+Learning rate: 1.50e-02
+Training Time: 5.87 seconds
+R² Score: -0.0084
+Total Script Duration: 0h 4m 38s
+
+
+# LSTM Input: (57, 54, 213, 8.62e-03)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 16 | 25 | 35 | 44 | 5 | 9 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 57
+Second layer: 54
+Third layer: 48
+Dense layer: 213
+Learning rate: 8.62e-03
+Training Time: 6.33 seconds
+R² Score: -0.0167
+Total Script Duration: 0h 4m 45s
+
+
+# LSTM Input: (49, 62, 223, 2.60e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 15 | 26 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 49
+Second layer: 62
+Third layer: 48
+Dense layer: 223
+Learning rate: 2.60e-02
+Training Time: 7.79 seconds
+R² Score: -0.0232
+Total Script Duration: 0h 4m 54s
+
+
+# LSTM Input: (36, 44, 45, 5.78e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 8 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 36
+Second layer: 44
+Third layer: 48
+Dense layer: 45
+Learning rate: 5.78e-02
+Training Time: 8.88 seconds
+R² Score: -0.0188
+Total Script Duration: 0h 5m 4s
+
+
+# LSTM Input: (49, 55, 220, 5.87e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 15 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 49
+Second layer: 55
+Third layer: 48
+Dense layer: 220
+Learning rate: 5.87e-02
+Training Time: 7.80 seconds
+R² Score: -0.0290
+Total Script Duration: 0h 5m 13s
+
+
+# LSTM Input: (52, 48, 221, 7.02e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 14 | 26 | 34 | 42 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 52
+Second layer: 48
+Third layer: 48
+Dense layer: 221
+Learning rate: 7.02e-02
+Training Time: 7.10 seconds
+R² Score: -0.0152
+Total Script Duration: 0h 5m 21s
+
+
+# LSTM Input: (40, 46, 227, 2.61e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 8 | 15 | 26 | 35 | 44 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 40
+Second layer: 46
+Third layer: 48
+Dense layer: 227
+Learning rate: 2.61e-02
+Training Time: 5.75 seconds
+R² Score: -0.0147
+Total Script Duration: 0h 5m 27s
+
+
+# LSTM Input: (32, 51, 256, 1.14e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 7 | 17 | 26 | 35 | 44 | 4 | 9 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 32
+Second layer: 51
+Third layer: 48
+Dense layer: 256
+Learning rate: 1.14e-02
+Training Time: 6.20 seconds
+R² Score: -0.0059
+Total Script Duration: 0h 5m 35s
+
+
+# LSTM Input: (57, 58, 227, 3.46e-02)
+| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |
+|---|---|---|---|---|---|---|---|
+| Last Recorded | 2 | 21 | 26 | 34 | 49 | 7 | 12 |
+| Prediction | 8 | 16 | 25 | 35 | 43 | 4 | 8 |
+| Prediction Trend | Up | Down | Down | Up | Down | Down | Down |
+
+First layer: 57
+Second layer: 58
+Third layer: 48
+Dense layer: 227
+Learning rate: 3.46e-02
+Training Time: 5.86 seconds
+R² Score: -0.0168
+Total Script Duration: 0h 5m 42s
+

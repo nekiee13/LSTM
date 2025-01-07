@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Dropout
-from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import StandardScaler  # Changed from MinMaxScaler
 from tensorflow.keras.losses import Huber
 import json
 import time
@@ -35,7 +35,7 @@ if not os.path.exists(lstm_config_file):
 
 # Step 3: Load Data from 06_DATA_Predict.csv
 data = pd.read_csv(data_file)
-data = data.drop(columns=data.columns[0])
+data = data.drop(columns=data.columns[0])  # Drop the first column (assuming it's an index)
 
 # Step 4: Load LSTM configurations from 30_LSTM2.txt (predefined configurations)
 def load_lstm_configs():
@@ -45,8 +45,24 @@ def load_lstm_configs():
 lstm_configs = load_lstm_configs()
 
 # Step 5: Data Preprocessing
-scaler = MinMaxScaler()
+# Define the hard limits for each series
+hard_limits = {
+    'Ball1': (1, 46),
+    'Ball2': (2, 47),
+    'Ball3': (3, 48),
+    'Ball4': (4, 49),
+    'Ball5': (5, 50),
+    'xBall1': (1, 11),
+    'xBall2': (2, 12)
+}
+
+# Use StandardScaler instead of MinMaxScaler
+scaler = StandardScaler()
 data_scaled = scaler.fit_transform(data)
+
+# Add Gaussian noise to the scaled data
+noise_factor = 0.25  # Adjust this value as needed
+data_scaled_noisy = data_scaled + noise_factor * np.random.normal(loc=0.0, scale=1.0, size=data_scaled.shape)
 
 # Function to estimate probability density using a histogram
 def estimate_probability_density(data, bins=20):
@@ -84,7 +100,7 @@ def create_sequences(data, sequence_length):
     return np.array(X), np.array(y)
 
 sequence_length = 7
-X, y = create_sequences(data_scaled, sequence_length)
+X, y = create_sequences(data_scaled_noisy, sequence_length)  # Use noisy data for training
 
 X_train, y_train = X, y
 
@@ -140,20 +156,30 @@ with open(results_file, 'a') as result_file:
         history = model.fit(X_train, y_train, epochs=12500, batch_size=48, callbacks=[early_stopping], verbose=0, sample_weight=sample_weights[:len(y_train)])
         end_time = time.time()
 
+        # Extract the last recorded game from the original unscaled data
+        last_recorded_rescaled = data.iloc[-1].values  # Get the last row of the original data
+
+        # Make predictions
         last_sequence = X_train[-1:]
         prediction = model.predict(last_sequence, verbose=0)
         prediction_rescaled = scaler.inverse_transform(prediction.reshape(-1, prediction.shape[-1]))
 
-        last_recorded_rescaled = scaler.inverse_transform(last_sequence.reshape(-1, last_sequence.shape[-1]))
+        # Introduce randomness to predictions
+        random_offset = 0.1  # Adjust this value as needed
+        prediction_rescaled += random_offset * np.random.normal(loc=0.0, scale=1.0, size=prediction_rescaled.shape)
 
-        trends = predict_trends(last_recorded_rescaled[0], prediction_rescaled[0])
+        # Enforce hard limits on the predictions after rescaling
+        for i, (min_val, max_val) in enumerate(hard_limits.values()):
+            prediction_rescaled[:, i] = np.clip(prediction_rescaled[:, i], min_val, max_val)
+
+        trends = predict_trends(last_recorded_rescaled, prediction_rescaled[0])
         all_predictions.append(prediction_rescaled[0])
         all_trends.append(trends)
 
         result = f"\n# LSTM Input: ({first_layer}, {second_layer}, {dense_layer}, {learning_rate:.2e})\n"
         result += "| Series | Number 1 | Number 2 | Number 3 | Number 4 | Number 5 | Star 1 | Star 2 |\n"
         result += "|---|---|---|---|---|---|---|---|\n"
-        result += f"| Last Recorded | {' | '.join(map(str, np.round(last_recorded_rescaled[0]).astype(int)))} |\n"
+        result += f"| Last Recorded | {' | '.join(map(str, np.round(last_recorded_rescaled).astype(int)))} |\n"
         result += f"| Prediction | {' | '.join(map(str, np.round(prediction_rescaled[0]).astype(int)))} |\n"
         result += f"| Prediction Trend | {' | '.join(trends)} |\n"
         result += f"\nFirst layer: {first_layer}\n"
